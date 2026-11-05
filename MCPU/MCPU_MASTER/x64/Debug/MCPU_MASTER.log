@@ -1,0 +1,18 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MCPU_MASTER.vcxproj, MCPU_TEST_PCB349.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AssemblyInfo.cpp
+  ConfigFile.cpp
+  Debugger.cpp
+  PCB.cpp
+  Log.cpp
+  CppCLR_WinFormsProject.cpp
+  CanDeviceProtocol.cpp
+  gantry_global_status.cpp
+  CanDriver.cpp
+  IdleForm.cpp
+  MainForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MCPU_MASTER.vcxproj -> D:\GIT\SW\MCPU_TEST_TEMPLATE\MCPU\x64\Debug\MCPU_TEST_TEMPLATE.exe
+  D:\GIT\SW\MCPU_TEST_TEMPLATE\MCPU\MCPU_MASTER\VSCAN\vs_can_api.dll
+  1 File(s) copied
